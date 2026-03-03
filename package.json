@@ -1,0 +1,21 @@
+{
+  "name": "discord-token-login",
+  "version": "1.0.0",
+  "description": "A Chrome extension to log in to Discord using a token.",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc",
+    "watch": "tsc --watch"
+  },
+  "keywords": [
+    "chrome-extension",
+    "discord"
+  ],
+  "author": "3d3n",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "@types/chrome": "^0.1.37",
+    "typescript": "^5.9.3"
+  }
+}
