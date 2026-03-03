@@ -12,7 +12,7 @@
     "discord"
   ],
   "author": "3d3n",
-  "license": "ISC",
+  "license": "CC-BY-NC-SA-4.0",
   "type": "commonjs",
   "devDependencies": {
     "@types/chrome": "^0.1.37",

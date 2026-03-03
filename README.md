@@ -57,4 +57,4 @@ After making changes, click the reload button (↻) on the extension card in `ch
 
 ## License
 
-ISC
+[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
