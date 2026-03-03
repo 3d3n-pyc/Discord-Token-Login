@@ -4,6 +4,8 @@ A Chrome extension that allows you to log in to Discord using a token. Built wit
 
 > **⚠️ Educational purposes only.** Do not use this for any malicious activities.
 
+![Preview](.github/preview.png)
+
 ## Features
 
 - Log in to Discord with a token
