@@ -1,6 +1,6 @@
 {
     "name": "Discord Token Login Extension",
-    "description": "This extension allows you to log in to your Discord account using your token. It is designed for educational purposes only and should not be used for any malicious activities.",
+    "description": "This extension allows you to log in to your Discord account using your token. It is designed for educational purposes only.",
     "version": "1.0",
     "manifest_version": 3,
     "permissions": [
